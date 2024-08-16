@@ -6,7 +6,8 @@
       "genre": "fiction",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630359282i/57271898.jpg",
       "url": "https://www.goodreads.com/book/show/57271898-icefields",
-      "progress": 20
+      "progress": 20,
+      "book": 1
     },
     {
       "title": "He: Understanding Masculine Psychology",
@@ -14,7 +15,8 @@
       "genre": "non-fiction",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425641336i/589278.jpg",
       "url": "https://www.goodreads.com/book/show/589278.He?ref=rae_3",
-      "progress": 0
+      "progress": 0,
+      "book": 2
     },
     {
       "title": "Absent Fathers, Lost Sons: The Search for Masculine Identity",
@@ -22,7 +24,8 @@
       "genre": "non-fiction",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399749i/98933.jpg",
       "url": "https://www.goodreads.com/book/show/98933.Absent_Fathers_Lost_Sons?ref=rae_7",
-      "progress": 0
+      "progress": 0,
+      "book": 3
     },
     {
       "title": "King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine",
@@ -30,7 +33,8 @@
       "genre": "non-fiction",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384259565i/91781.jpg",
       "url": "https://www.goodreads.com/book/show/91781.King_Warrior_Magician_Lover?ref=nav_sb_ss_1_84",
-      "progress": 0
+      "progress": 0,
+      "book": 4
     }
   ]
 }
