@@ -20,9 +20,15 @@ calculate_percentage() {
         exit 1
     fi
 
-    # Calculate percentage
-    percentage=$(echo "scale=2; ($current_page / $total_pages) * 100" | bc)
-    
+    # Check if bc is available
+    if command -v bc &> /dev/null; then
+        # Calculate percentage using bc
+        percentage=$(echo "scale=2; ($current_page / $total_pages) * 100" | bc)
+    else
+        # Calculate percentage using integer arithmetic as a fallback
+        percentage=$(echo "scale=2; ($current_page * 100) / $total_pages" | awk '{printf "%.2f", $0}')
+    fi
+
     # Display the result
     echo "You have read $percentage% of the book."
 }
