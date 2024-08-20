@@ -44,6 +44,15 @@
       "url": "https://www.goodreads.com/book/show/26013917-guilt-grace?ref=nav_sb_ss_1_38",
       "progress": 12,
       "book": 5
+    },
+    {
+      "title": "Gold Dust",
+      "author": "Ibrahim al-Koni",
+      "genre": "fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348621785i/4837638.jpg",
+      "url": "https://www.goodreads.com/book/show/4837638-gold-dust",
+      "progress": 0,
+      "book": 6
     }
   ]
 }
